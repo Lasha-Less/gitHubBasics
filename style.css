@@ -1,4 +1,5 @@
 body {
     display: grid;
     background-color: blueviolet;
+    margin: 30px;
 }
