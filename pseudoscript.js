@@ -3,3 +3,5 @@ let thisIstheUltimateVariable = NaN => {
 };
 
 const digni = thisIstheUltimateVariable;
+
+let us = [23, "kitche knife", NaN];
