@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 const newLand = "Paparazzi";
-=======
 let thisIstheUltimateVariable = NaN => {
     23 - thisIstheUltimateVariable
 };
@@ -8,4 +6,5 @@ let thisIstheUltimateVariable = NaN => {
 const digni = thisIstheUltimateVariable;
 
 let us = [23, "kitche knife", NaN];
->>>>>>> Dao
+
+let thisBeNeat = "no more polluting the code please!";
