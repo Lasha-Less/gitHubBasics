@@ -4,3 +4,6 @@ body {
     margin: 30px;
     border: solid blueviolet 2px;
 }
+h2 {
+    color: green;
+}
