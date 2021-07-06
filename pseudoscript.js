@@ -6,8 +6,9 @@ let thisIstheUltimateVariable = NaN => {
 const digni = thisIstheUltimateVariable;
 
 let us = [23, "kitche knife", NaN];
-Dao
 
 let newBaby = "How easy is it to forget javascript syntax";
 
 const disNumber = 42;
+
+let thisBeNeat = "no more polluting the code please!";
