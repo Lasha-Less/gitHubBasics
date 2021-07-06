@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 const newLand = "Paparazzi";
-=======
 let thisIstheUltimateVariable = NaN => {
     23 - thisIstheUltimateVariable
 };
@@ -8,4 +6,6 @@ let thisIstheUltimateVariable = NaN => {
 const digni = thisIstheUltimateVariable;
 
 let us = [23, "kitche knife", NaN];
->>>>>>> Dao
+Dao
+
+let newBaby = "How easy is it to forget javascript syntax";
