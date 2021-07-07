@@ -14,3 +14,5 @@ const disNumber = 42;
 let thisBeNeat = "no more polluting the code please!";
 
 const otari = "65 wlis";
+
+let minimouse = 43 * 15;
