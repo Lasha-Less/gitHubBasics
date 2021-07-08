@@ -1,7 +1,9 @@
 body {
     display: grid;
     background-color: blueviolet;
+    margin: 30px;
+    border: solid blueviolet 2px;
 }
-h1 {
-    font-size: xx-large;
+h2 {
+    color: green;
 }
