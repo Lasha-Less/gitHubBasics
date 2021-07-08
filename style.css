@@ -7,3 +7,8 @@ body {
 h2 {
     color: green;
 }
+
+p {
+    margin: 30%;
+    padding: 25px;
+}
